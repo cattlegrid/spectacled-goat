@@ -1,0 +1,7 @@
+version: '2'
+services:
+  winged-raddish:
+    image: phildwilson/spectacled-goat        
+    network_mode: host
+    privileged: true
+
