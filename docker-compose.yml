@@ -1,7 +1,7 @@
 version: '2'
 services:
   spectacled-goat:
-    image: phildwilson/spectacled-goat        
+    image: rahulthakoor/spectacled-goat        
     network_mode: host
     privileged: true
 
